@@ -1,0 +1,20 @@
+[
+  { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 6 },
+  { "C": "Indonesia", "r": "unknown", "c": "unknown", "n": 5 },
+  { "C": "Indonesia", "r": "Bali", "c": "Denpasar", "n": 1 },
+  { "C": "Indonesia", "r": "West Java", "c": "Depok", "n": 1 },
+  { "C": "Indonesia", "r": "West Java", "c": "Bandung", "n": 4 },
+  { "C": "United States", "r": "Virginia", "c": "Ashburn", "n": 1 },
+  { "C": "Indonesia", "r": "Banten", "c": "Tangerang", "n": 1 },
+  { "C": "Canada", "r": "Alberta", "c": "Edmonton", "n": 1 },
+  { "C": "China", "r": "Xinjiang", "c": "unknown", "n": 1 },
+  { "C": "United States", "r": "unknown", "c": "unknown", "n": 10 },
+  { "C": "United States", "r": "District of Columbia", "c": "Washington", "n": 1 },
+  { "C": "United States", "r": "Oregon", "c": "Boardman", "n": 2 },
+  { "C": "Canada", "r": "Quebec", "c": "Montreal", "n": 1 },
+  { "C": "Indonesia", "r": "Bali", "c": "Banjar Pacung", "n": 3 },
+  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 },
+  { "C": "Indonesia", "r": "East Java", "c": "unknown", "n": 1 },
+  { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 2 },
+  { "C": "Indonesia", "r": "East Java", "c": "Malang", "n": 1 }
+]

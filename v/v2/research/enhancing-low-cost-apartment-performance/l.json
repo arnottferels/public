@@ -1,0 +1,19 @@
+[
+  { "C": "Indonesia", "r": "unknown", "c": "unknown", "n": 3 },
+  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 },
+  { "C": "Malaysia", "r": "Kuala Lumpur", "c": "Kuala Lumpur", "n": 3 },
+  { "C": "United States", "r": "Delaware", "c": "Newark", "n": 1 },
+  { "C": "United States", "r": "Texas", "c": "Arlington", "n": 1 },
+  { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 1 },
+  { "C": "Indonesia", "r": "East Java", "c": "Surabaya", "n": 1 },
+  { "C": "Yemen", "r": "Amanat Alasimah", "c": "Sanaa", "n": 1 },
+  { "C": "Malaysia", "r": "Johor", "c": "Johor Bahru", "n": 1 },
+  { "C": "Indonesia", "r": "West Java", "c": "Bandung", "n": 8 },
+  { "C": "Philippines", "r": "Ilocos", "c": "unknown", "n": 1 },
+  { "C": "Philippines", "r": "Calabarzon", "c": "Lucena City", "n": 1 },
+  { "C": "Canada", "r": "Quebec", "c": "Montreal", "n": 1 },
+  { "C": "Philippines", "r": "Calabarzon", "c": "General Trias", "n": 1 },
+  { "C": "Vietnam", "r": "Ho Chi Minh", "c": "Ho Chi Minh City", "n": 1 },
+  { "C": "Indonesia", "r": "West Java", "c": "Karawang", "n": 1 },
+  { "C": "The Netherlands", "r": "Gelderland", "c": "Arnhem", "n": 1 }
+]

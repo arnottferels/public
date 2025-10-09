@@ -1,0 +1,20 @@
+[
+  { "C": "United States", "r": "North Carolina", "c": "Forest City", "n": 7 },
+  { "C": "Ireland", "r": "Leinster", "c": "Clonee", "n": 8 },
+  { "C": "Indonesia", "r": "Bali", "c": "Denpasar", "n": 1 },
+  { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 2 },
+  { "C": "United States", "r": "Oregon", "c": "Prineville", "n": 2 },
+  { "C": "Indonesia", "r": "East Nusa Tenggara", "c": "Kupang", "n": 1 },
+  { "C": "Indonesia", "r": "West Java", "c": "Tasikmalaya", "n": 2 },
+  { "C": "United States", "r": "Virginia", "c": "Ashburn", "n": 2 },
+  { "C": "United States", "r": "Texas", "c": "Fort Worth", "n": 1 },
+  { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 2 },
+  { "C": "Sweden", "r": "Norrbotten County", "c": "Luleå", "n": 1 },
+  { "C": "Indonesia", "r": "East Java", "c": "Banyuwangi", "n": 1 },
+  { "C": "Indonesia", "r": "West Java", "c": "Depok", "n": 1 },
+  { "C": "United States", "r": "North Carolina", "c": "Charlotte", "n": 1 },
+  { "C": "United States", "r": "Iowa", "c": "Altoona", "n": 3 },
+  { "C": "Indonesia", "r": "unknown", "c": "unknown", "n": 1 },
+  { "C": "Indonesia", "r": "West Java", "c": "Bandung", "n": 1 },
+  { "C": "Indonesia", "r": "Bali", "c": "Banjar Pacung", "n": 1 }
+]
