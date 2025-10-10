@@ -30,7 +30,7 @@ jobs:
       - name: Clone source repo, run scripts, and commit there
         run: |
           set -e
-          git clone $SRC_REMOTE_URL $SRC_REPO_DIR >/dev/null 2>&1
+          git clone $SRC_REMOTE_URL $SRC_REPO_DIR
           cd $SRC_REPO_DIR
 
           npm ci
@@ -39,9 +39,13 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add . >/dev/null 2>&1
-          git commit -m "Update $TIMESTAMP" >/dev/null 2>&1 || echo "No changes to commit"
-          git push origin main >/dev/null 2>&1
+          git add .
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update $TIMESTAMP"
+            git push origin main
+          fi
           cd ..
 
       - name: Copy public data from source to root
@@ -56,10 +60,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add . >/dev/null 2>&1
-          if ! git diff --cached --quiet; then
-            git commit -m "Update $TIMESTAMP" >/dev/null 2>&1
-            git push origin main >/dev/null 2>&1
-          else
+          git add .
+          if git diff --cached --quiet; then
             echo "No changes in public data to commit"
+          else
+            git commit -m "Update $TIMESTAMP"
+            git push origin main
           fi
