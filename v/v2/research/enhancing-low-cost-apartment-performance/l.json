@@ -15,5 +15,6 @@
   { "C": "Philippines", "r": "Calabarzon", "c": "General Trias", "n": 1 },
   { "C": "Vietnam", "r": "Ho Chi Minh", "c": "Ho Chi Minh City", "n": 1 },
   { "C": "Indonesia", "r": "West Java", "c": "Karawang", "n": 1 },
-  { "C": "The Netherlands", "r": "Gelderland", "c": "Arnhem", "n": 1 }
+  { "C": "The Netherlands", "r": "Gelderland", "c": "Arnhem", "n": 1 },
+  { "C": "Indonesia", "r": "Lampung", "c": "Bandar Lampung", "n": 1 }
 ]
