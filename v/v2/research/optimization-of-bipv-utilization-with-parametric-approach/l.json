@@ -16,5 +16,6 @@
   { "C": "Philippines", "r": "Central Luzon", "c": "Cabanatuan City", "n": 1 },
   { "C": "Qatar", "r": "Baladīyat ad Dawḩah", "c": "Doha", "n": 1 },
   { "C": "France", "r": "Hauts-de-France", "c": "Compiègne", "n": 1 },
-  { "C": "Venezuela", "r": "Zulia", "c": "Maracaibo", "n": 1 }
+  { "C": "Venezuela", "r": "Zulia", "c": "Maracaibo", "n": 1 },
+  { "C": "Japan", "r": "unknown", "c": "unknown", "n": 1 }
 ]
