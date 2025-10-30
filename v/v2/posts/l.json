@@ -1,1 +1,4 @@
-[{ "C": "Indonesia", "r": "West Java", "c": "Bandung", "n": 1 }]
+[
+  { "C": "Indonesia", "r": "West Java", "c": "Bandung", "n": 1 },
+  { "C": "Indonesia", "r": "South Sulawesi", "c": "Makassar", "n": 1 }
+]

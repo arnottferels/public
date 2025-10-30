@@ -13,5 +13,6 @@
   { "C": "Philippines", "r": "Metro Manila", "c": "Quezon City", "n": 1 },
   { "C": "Canada", "r": "Quebec", "c": "Montreal", "n": 1 },
   { "C": "Australia", "r": "Victoria", "c": "Melbourne", "n": 1 },
-  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 }
+  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 },
+  { "C": "Indonesia", "r": "South Sulawesi", "c": "Makassar", "n": 1 }
 ]
