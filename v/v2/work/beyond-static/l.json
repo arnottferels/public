@@ -1,1 +1,4 @@
-[{ "C": "Germany", "r": "Lower Saxony", "c": "Braunschweig", "n": 1 }]
+[
+  { "C": "Germany", "r": "Lower Saxony", "c": "Braunschweig", "n": 1 },
+  { "C": "Algeria", "r": "Relizane", "c": "Relizane", "n": 1 }
+]
