@@ -18,5 +18,6 @@
   { "C": "The Netherlands", "r": "Gelderland", "c": "Arnhem", "n": 1 },
   { "C": "Indonesia", "r": "Lampung", "c": "Bandar Lampung", "n": 1 },
   { "C": "Philippines", "r": "Western Visayas", "c": "Bacolod City", "n": 1 },
-  { "C": "Taiwan", "r": "Tainan", "c": "Tainan City", "n": 2 }
+  { "C": "Taiwan", "r": "Tainan", "c": "Tainan City", "n": 2 },
+  { "C": "China", "r": "Anhui", "c": "Bengbu", "n": 1 }
 ]
