@@ -5,5 +5,7 @@
   { "C": "United States", "r": "Iowa", "c": "Altoona", "n": 1 },
   { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 4 },
   { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 1 },
-  { "C": "Morocco", "r": "Tanger-Tetouan-Al Hoceima", "c": "Tétouan", "n": 1 }
+  { "C": "Morocco", "r": "Tanger-Tetouan-Al Hoceima", "c": "Tétouan", "n": 1 },
+  { "C": "Indonesia", "r": "unknown", "c": "unknown", "n": 1 },
+  { "C": "Indonesia", "r": "East Java", "c": "Malang", "n": 1 }
 ]
