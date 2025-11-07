@@ -7,5 +7,8 @@
   { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 1 },
   { "C": "Morocco", "r": "Tanger-Tetouan-Al Hoceima", "c": "Tétouan", "n": 1 },
   { "C": "Indonesia", "r": "unknown", "c": "unknown", "n": 1 },
-  { "C": "Indonesia", "r": "East Java", "c": "Malang", "n": 1 }
+  { "C": "Indonesia", "r": "East Java", "c": "Malang", "n": 1 },
+  { "C": "Japan", "r": "Tokyo", "c": "Tokyo", "n": 1 },
+  { "C": "United States", "r": "unknown", "c": "unknown", "n": 1 },
+  { "C": "Poland", "r": "Mazovia", "c": "Warsaw", "n": 2 }
 ]

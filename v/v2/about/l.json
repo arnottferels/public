@@ -5,5 +5,7 @@
   { "C": "Canada", "r": "Quebec", "c": "Montreal", "n": 1 },
   { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 1 },
   { "C": "Indonesia", "r": "South Sulawesi", "c": "Makassar", "n": 1 },
-  { "C": "Indonesia", "r": "Banten", "c": "Tangerang", "n": 1 }
+  { "C": "Indonesia", "r": "Banten", "c": "Tangerang", "n": 1 },
+  { "C": "Japan", "r": "Tokyo", "c": "Tokyo", "n": 1 },
+  { "C": "United States", "r": "unknown", "c": "unknown", "n": 2 }
 ]
