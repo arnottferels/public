@@ -23,5 +23,6 @@
   { "C": "Indonesia", "r": "South Sulawesi", "c": "Makassar", "n": 2 },
   { "C": "Indonesia", "r": "Banten", "c": "Pandeglang", "n": 1 },
   { "C": "Poland", "r": "Mazovia", "c": "Warsaw", "n": 1 },
-  { "C": "United States", "r": "Oregon", "c": "Prineville", "n": 1 }
+  { "C": "United States", "r": "Oregon", "c": "Prineville", "n": 1 },
+  { "C": "China", "r": "unknown", "c": "unknown", "n": 1 }
 ]
