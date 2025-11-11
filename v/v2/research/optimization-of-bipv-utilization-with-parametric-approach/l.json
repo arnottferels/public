@@ -18,5 +18,6 @@
   { "C": "France", "r": "Hauts-de-France", "c": "Compiègne", "n": 1 },
   { "C": "Venezuela", "r": "Zulia", "c": "Maracaibo", "n": 1 },
   { "C": "Japan", "r": "unknown", "c": "unknown", "n": 1 },
-  { "C": "Switzerland", "r": "Bern", "c": "Bern", "n": 1 }
+  { "C": "Switzerland", "r": "Bern", "c": "Bern", "n": 1 },
+  { "C": "China", "r": "unknown", "c": "unknown", "n": 1 }
 ]

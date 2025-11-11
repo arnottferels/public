@@ -1,1 +1,4 @@
-[{ "C": "Canada", "r": "Ontario", "c": "Toronto", "n": 1 }]
+[
+  { "C": "Canada", "r": "Ontario", "c": "Toronto", "n": 1 },
+  { "C": "Philippines", "r": "Central Luzon", "c": "Olongapo City", "n": 1 }
+]
