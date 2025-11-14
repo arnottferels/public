@@ -1,4 +1,5 @@
 [
   { "C": "Canada", "r": "Ontario", "c": "Toronto", "n": 1 },
-  { "C": "Philippines", "r": "Central Luzon", "c": "Olongapo City", "n": 1 }
+  { "C": "Philippines", "r": "Central Luzon", "c": "Olongapo City", "n": 1 },
+  { "C": "United States", "r": "California", "c": "Irvine", "n": 1 }
 ]
