@@ -4,7 +4,7 @@
   { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 1 },
   { "C": "United States", "r": "Alabama", "c": "Northport", "n": 1 },
   { "C": "Indonesia", "r": "unknown", "c": "unknown", "n": 2 },
-  { "C": "Indonesia", "r": "North Sumatra", "c": "Medan", "n": 5 },
+  { "C": "Indonesia", "r": "North Sumatra", "c": "Medan", "n": 6 },
   { "C": "Germany", "r": "Baden-Wurttemberg", "c": "Karlsruhe", "n": 1 },
   { "C": "Japan", "r": "Fukuoka", "c": "Fukuoka", "n": 1 },
   { "C": "China", "r": "Beijing", "c": "Beijing", "n": 1 },
@@ -20,6 +20,6 @@
   { "C": "Japan", "r": "unknown", "c": "unknown", "n": 1 },
   { "C": "Switzerland", "r": "Bern", "c": "Bern", "n": 1 },
   { "C": "China", "r": "unknown", "c": "unknown", "n": 1 },
-  { "C": "Iran", "r": "unknown", "c": "unknown", "n": 3 },
+  { "C": "Iran", "r": "unknown", "c": "unknown", "n": 4 },
   { "C": "India", "r": "Andhra Pradesh", "c": "Visakhapatnam", "n": 1 }
 ]

@@ -1,1 +1,4 @@
-[{ "C": "Philippines", "r": "Metro Manila", "c": "Las Piñas", "n": 1 }]
+[
+  { "C": "Philippines", "r": "Metro Manila", "c": "Las Piñas", "n": 1 },
+  { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 3 }
+]
