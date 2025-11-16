@@ -4,5 +4,6 @@
   { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 5 },
   { "C": "United States", "r": "Nevada", "c": "Las Vegas", "n": 1 },
   { "C": "United States", "r": "New Jersey", "c": "Newark", "n": 1 },
-  { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 1 }
+  { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 1 },
+  { "C": "Indonesia", "r": "Yogyakarta", "c": "Sleman", "n": 1 }
 ]
