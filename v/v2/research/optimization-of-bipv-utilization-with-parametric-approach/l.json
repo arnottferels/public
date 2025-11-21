@@ -22,5 +22,6 @@
   { "C": "China", "r": "unknown", "c": "unknown", "n": 1 },
   { "C": "Iran", "r": "unknown", "c": "unknown", "n": 4 },
   { "C": "India", "r": "Andhra Pradesh", "c": "Visakhapatnam", "n": 1 },
-  { "C": "Indonesia", "r": "East Java", "c": "Surabaya", "n": 1 }
+  { "C": "Indonesia", "r": "East Java", "c": "Surabaya", "n": 1 },
+  { "C": "Iran", "r": "Golestan", "c": "Gorgan", "n": 1 }
 ]
