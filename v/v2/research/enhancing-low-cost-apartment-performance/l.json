@@ -22,5 +22,6 @@
   { "C": "China", "r": "Anhui", "c": "Bengbu", "n": 1 },
   { "C": "United States", "r": "unknown", "c": "unknown", "n": 1 },
   { "C": "India", "r": "Andhra Pradesh", "c": "Visakhapatnam", "n": 1 },
-  { "C": "United States", "r": "Illinois", "c": "Chicago", "n": 1 }
+  { "C": "United States", "r": "Illinois", "c": "Chicago", "n": 1 },
+  { "C": "Indonesia", "r": "Jakarta", "c": "Ancol", "n": 1 }
 ]

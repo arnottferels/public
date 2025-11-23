@@ -7,5 +7,6 @@
   { "C": "Indonesia", "r": "South Sulawesi", "c": "Makassar", "n": 1 },
   { "C": "Indonesia", "r": "Banten", "c": "Tangerang", "n": 1 },
   { "C": "Japan", "r": "Tokyo", "c": "Tokyo", "n": 1 },
-  { "C": "United States", "r": "unknown", "c": "unknown", "n": 2 }
+  { "C": "United States", "r": "unknown", "c": "unknown", "n": 2 },
+  { "C": "Switzerland", "r": "Zurich", "c": "Zurich", "n": 1 }
 ]
