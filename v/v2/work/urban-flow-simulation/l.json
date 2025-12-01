@@ -4,5 +4,6 @@
   { "C": "The Netherlands", "r": "South Holland", "c": "Delft", "n": 3 },
   { "C": "Thailand", "r": "Bangkok", "c": "Bangkok", "n": 1 },
   { "C": "Japan", "r": "Miyagi", "c": "Sendai", "n": 1 },
-  { "C": "Italy", "r": "unknown", "c": "unknown", "n": 1 }
+  { "C": "Italy", "r": "unknown", "c": "unknown", "n": 1 },
+  { "C": "France", "r": "Nouvelle-Aquitaine", "c": "Poitiers", "n": 1 }
 ]
