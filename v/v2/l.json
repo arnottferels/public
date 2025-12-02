@@ -13,7 +13,7 @@
   { "C": "United States", "r": "Oregon", "c": "Boardman", "n": 6 },
   { "C": "Canada", "r": "Quebec", "c": "Montreal", "n": 1 },
   { "C": "Indonesia", "r": "Bali", "c": "Banjar Pacung", "n": 3 },
-  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 },
+  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 2 },
   { "C": "Indonesia", "r": "East Java", "c": "unknown", "n": 1 },
   { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 3 },
   { "C": "Indonesia", "r": "East Java", "c": "Malang", "n": 1 },
@@ -31,5 +31,6 @@
   { "C": "United States", "r": "Iowa", "c": "Council Bluffs", "n": 2 },
   { "C": "United States", "r": "Texas", "c": "unknown", "n": 1 },
   { "C": "Switzerland", "r": "Zurich", "c": "Zurich", "n": 1 },
-  { "C": "France", "r": "Nouvelle-Aquitaine", "c": "Poitiers", "n": 1 }
+  { "C": "France", "r": "Nouvelle-Aquitaine", "c": "Poitiers", "n": 1 },
+  { "C": "France", "r": "unknown", "c": "unknown", "n": 1 }
 ]

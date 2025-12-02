@@ -1,1 +1,4 @@
-[{ "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 1 }]
+[
+  { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 1 },
+  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 }
+]
