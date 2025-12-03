@@ -32,5 +32,6 @@
   { "C": "United States", "r": "Texas", "c": "unknown", "n": 1 },
   { "C": "Switzerland", "r": "Zurich", "c": "Zurich", "n": 1 },
   { "C": "France", "r": "Nouvelle-Aquitaine", "c": "Poitiers", "n": 1 },
-  { "C": "France", "r": "unknown", "c": "unknown", "n": 1 }
+  { "C": "France", "r": "unknown", "c": "unknown", "n": 1 },
+  { "C": "Japan", "r": "unknown", "c": "unknown", "n": 1 }
 ]
