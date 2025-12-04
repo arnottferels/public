@@ -24,5 +24,6 @@
   { "C": "India", "r": "Andhra Pradesh", "c": "Visakhapatnam", "n": 1 },
   { "C": "United States", "r": "Illinois", "c": "Chicago", "n": 1 },
   { "C": "Indonesia", "r": "Jakarta", "c": "Ancol", "n": 1 },
-  { "C": "Philippines", "r": "Metro Manila", "c": "Mandaluyong", "n": 1 }
+  { "C": "Philippines", "r": "Metro Manila", "c": "Mandaluyong", "n": 1 },
+  { "C": "Indonesia", "r": "West Java", "c": "Depok", "n": 1 }
 ]
