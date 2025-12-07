@@ -5,5 +5,7 @@
   { "C": "Poland", "r": "Mazovia", "c": "Warsaw", "n": 2 },
   { "C": "Indonesia", "r": "East Java", "c": "Blitar", "n": 2 },
   { "C": "Switzerland", "r": "Zurich", "c": "Zurich", "n": 1 },
-  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 }
+  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 },
+  { "C": "Indonesia", "r": "East Java", "c": "Tulungagung", "n": 1 },
+  { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 }
 ]

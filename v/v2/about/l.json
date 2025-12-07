@@ -9,5 +9,6 @@
   { "C": "Japan", "r": "Tokyo", "c": "Tokyo", "n": 1 },
   { "C": "United States", "r": "unknown", "c": "unknown", "n": 2 },
   { "C": "Switzerland", "r": "Zurich", "c": "Zurich", "n": 1 },
-  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 }
+  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 },
+  { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 }
 ]

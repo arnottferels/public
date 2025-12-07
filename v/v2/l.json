@@ -33,5 +33,7 @@
   { "C": "Switzerland", "r": "Zurich", "c": "Zurich", "n": 1 },
   { "C": "France", "r": "Nouvelle-Aquitaine", "c": "Poitiers", "n": 1 },
   { "C": "France", "r": "unknown", "c": "unknown", "n": 1 },
-  { "C": "Japan", "r": "unknown", "c": "unknown", "n": 1 }
+  { "C": "Japan", "r": "unknown", "c": "unknown", "n": 1 },
+  { "C": "Indonesia", "r": "East Java", "c": "Tulungagung", "n": 1 },
+  { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 }
 ]
