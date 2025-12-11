@@ -11,5 +11,6 @@
   { "C": "Japan", "r": "Tokyo", "c": "Tokyo", "n": 1 },
   { "C": "United States", "r": "unknown", "c": "unknown", "n": 1 },
   { "C": "Poland", "r": "Mazovia", "c": "Warsaw", "n": 3 },
-  { "C": "Poland", "r": "Silesia", "c": "Wodzisław Śląski", "n": 1 }
+  { "C": "Poland", "r": "Silesia", "c": "Wodzisław Śląski", "n": 1 },
+  { "C": "Brazil", "r": "Rio Grande do Sul", "c": "Pelotas", "n": 1 }
 ]

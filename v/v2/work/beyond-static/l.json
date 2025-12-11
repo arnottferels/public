@@ -1,5 +1,6 @@
 [
   { "C": "Germany", "r": "Lower Saxony", "c": "Braunschweig", "n": 1 },
   { "C": "Algeria", "r": "Relizane", "c": "Relizane", "n": 1 },
-  { "C": "United States", "r": "unknown", "c": "unknown", "n": 2 }
+  { "C": "United States", "r": "unknown", "c": "unknown", "n": 2 },
+  { "C": "Hong Kong", "r": "unknown", "c": "Hong Kong", "n": 2 }
 ]
