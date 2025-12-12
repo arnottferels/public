@@ -25,5 +25,6 @@
   { "C": "Indonesia", "r": "East Java", "c": "Surabaya", "n": 1 },
   { "C": "Iran", "r": "Golestan", "c": "Gorgan", "n": 4 },
   { "C": "Japan", "r": "Miyagi", "c": "Sendai", "n": 1 },
-  { "C": "United Arab Emirates", "r": "Dubai", "c": "Dubai", "n": 1 }
+  { "C": "United Arab Emirates", "r": "Dubai", "c": "Dubai", "n": 1 },
+  { "C": "Iran", "r": "Isfahan", "c": "Isfahan", "n": 1 }
 ]

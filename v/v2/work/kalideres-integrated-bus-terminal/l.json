@@ -1,5 +1,6 @@
 [
   { "C": "Philippines", "r": "Central Visayas", "c": "Cebu City", "n": 1 },
   { "C": "United States", "r": "North Carolina", "c": "Forest City", "n": 1 },
-  { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 1 }
+  { "C": "Indonesia", "r": "Jakarta", "c": "Jakarta", "n": 1 },
+  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 }
 ]
