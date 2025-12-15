@@ -36,5 +36,6 @@
   { "C": "Japan", "r": "unknown", "c": "unknown", "n": 1 },
   { "C": "Indonesia", "r": "East Java", "c": "Tulungagung", "n": 1 },
   { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 },
-  { "C": "United States", "r": "Texas", "c": "Fort Worth", "n": 1 }
+  { "C": "United States", "r": "Texas", "c": "Fort Worth", "n": 1 },
+  { "C": "Sweden", "r": "Norrbotten County", "c": "Luleå", "n": 1 }
 ]
