@@ -26,5 +26,6 @@
   { "C": "Indonesia", "r": "Jakarta", "c": "Ancol", "n": 1 },
   { "C": "Philippines", "r": "Metro Manila", "c": "Mandaluyong", "n": 1 },
   { "C": "Indonesia", "r": "West Java", "c": "Depok", "n": 1 },
-  { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 }
+  { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 },
+  { "C": "Belgium", "r": "Brussels Capital", "c": "Brussels", "n": 1 }
 ]
