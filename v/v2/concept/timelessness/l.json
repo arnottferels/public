@@ -1,1 +1,4 @@
-[{ "C": "China", "r": "Sichuan", "c": "Chengdu", "n": 1 }]
+[
+  { "C": "China", "r": "Sichuan", "c": "Chengdu", "n": 1 },
+  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 }
+]

@@ -7,5 +7,6 @@
   { "C": "Switzerland", "r": "Zurich", "c": "Zurich", "n": 1 },
   { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 },
   { "C": "Indonesia", "r": "East Java", "c": "Tulungagung", "n": 1 },
-  { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 }
+  { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 },
+  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 }
 ]
