@@ -13,5 +13,6 @@
   { "C": "Poland", "r": "Mazovia", "c": "Warsaw", "n": 3 },
   { "C": "Poland", "r": "Silesia", "c": "Wodzisław Śląski", "n": 1 },
   { "C": "Brazil", "r": "Rio Grande do Sul", "c": "Pelotas", "n": 1 },
-  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 }
+  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 3 },
+  { "C": "Venezuela", "r": "Falcón", "c": "Punto Fijo", "n": 1 }
 ]
