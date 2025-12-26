@@ -7,5 +7,6 @@
   { "C": "Indonesia", "r": "South Sulawesi", "c": "Makassar", "n": 1 },
   { "C": "Taiwan", "r": "New Taipei City", "c": "New Taipei City", "n": 1 },
   { "C": "France", "r": "Nouvelle-Aquitaine", "c": "Poitiers", "n": 1 },
-  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 }
+  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 },
+  { "C": "China", "r": "Beijing", "c": "Beijing", "n": 1 }
 ]
