@@ -1,5 +1,6 @@
 [
   { "C": "Indonesia", "r": "West Java", "c": "Bandung", "n": 2 },
   { "C": "Canada", "r": "Quebec", "c": "Montreal", "n": 1 },
-  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 }
+  { "C": "South Africa", "r": "Western Cape", "c": "Cape Town", "n": 1 },
+  { "C": "Brazil", "r": "Tocantins", "c": "Palmas", "n": 1 }
 ]
