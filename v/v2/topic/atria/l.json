@@ -1,1 +1,4 @@
-[{ "C": "Mexico", "r": "Mexico City", "c": "Xochimilco", "n": 1 }]
+[
+  { "C": "Mexico", "r": "Mexico City", "c": "Xochimilco", "n": 1 },
+  { "C": "Morocco", "r": "Souss-Massa", "c": "Agadir", "n": 1 }
+]
