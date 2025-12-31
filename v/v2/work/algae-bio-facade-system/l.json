@@ -8,7 +8,7 @@
   { "C": "Thailand", "r": "Bangkok", "c": "Bangkok", "n": 1 },
   { "C": "Argentina", "r": "Cordoba", "c": "Córdoba", "n": 1 },
   { "C": "Hong Kong", "r": "unknown", "c": "Hong Kong", "n": 2 },
-  { "C": "India", "r": "Maharashtra", "c": "Mumbai", "n": 1 },
+  { "C": "India", "r": "Maharashtra", "c": "Mumbai", "n": 3 },
   { "C": "Senegal", "r": "Dakar", "c": "Dakar", "n": 2 },
   { "C": "Philippines", "r": "Metro Manila", "c": "Quezon City", "n": 1 },
   { "C": "Canada", "r": "Quebec", "c": "Montreal", "n": 1 },
