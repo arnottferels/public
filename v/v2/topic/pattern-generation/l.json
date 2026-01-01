@@ -1,1 +1,4 @@
-[{ "C": "Brazil", "r": "São Paulo", "c": "Sertãozinho", "n": 1 }]
+[
+  { "C": "Brazil", "r": "São Paulo", "c": "Sertãozinho", "n": 1 },
+  { "C": "Brazil", "r": "Rio de Janeiro", "c": "Paraty", "n": 1 }
+]

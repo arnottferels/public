@@ -1,1 +1,4 @@
-[{ "C": "Mexico", "r": "Mexico City", "c": "Álvaro Obregón", "n": 1 }]
+[
+  { "C": "Mexico", "r": "Mexico City", "c": "Álvaro Obregón", "n": 1 },
+  { "C": "Ecuador", "r": "El Oro", "c": "Machala", "n": 1 }
+]
