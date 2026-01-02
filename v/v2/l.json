@@ -38,5 +38,6 @@
   { "C": "Türkiye", "r": "Manisa", "c": "Magnesia ad Sipylum", "n": 1 },
   { "C": "United States", "r": "Texas", "c": "Fort Worth", "n": 1 },
   { "C": "Sweden", "r": "Norrbotten County", "c": "Luleå", "n": 1 },
-  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 }
+  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 },
+  { "C": "Australia", "r": "Victoria", "c": "Melbourne", "n": 1 }
 ]

@@ -1,1 +1,4 @@
-[{ "C": "Brazil", "r": "Minas Gerais", "c": "Belo Horizonte", "n": 1 }]
+[
+  { "C": "Brazil", "r": "Minas Gerais", "c": "Belo Horizonte", "n": 1 },
+  { "C": "Kiribati", "r": "Gilbert Islands", "c": "Tarawa", "n": 1 }
+]

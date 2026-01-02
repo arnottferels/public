@@ -1,5 +1,6 @@
 [
   { "C": "United States", "r": "New Jersey", "c": "North Bergen", "n": 1 },
   { "C": "Colombia", "r": "Departamento de Córdoba", "c": "Montería", "n": 1 },
-  { "C": "Bangladesh", "r": "Khulna Division", "c": "Magura District", "n": 1 }
+  { "C": "Bangladesh", "r": "Khulna Division", "c": "Magura District", "n": 1 },
+  { "C": "Egypt", "r": "Cairo Governorate", "c": "Cairo", "n": 1 }
 ]
