@@ -6,5 +6,6 @@
   { "C": "Japan", "r": "Miyagi", "c": "Sendai", "n": 1 },
   { "C": "Italy", "r": "unknown", "c": "unknown", "n": 1 },
   { "C": "France", "r": "Nouvelle-Aquitaine", "c": "Poitiers", "n": 1 },
-  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 }
+  { "C": "Singapore", "r": "unknown", "c": "Singapore", "n": 1 },
+  { "C": "South Korea", "r": "Seoul", "c": "unknown", "n": 1 }
 ]
