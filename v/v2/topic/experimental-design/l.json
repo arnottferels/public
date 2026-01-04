@@ -1,1 +1,4 @@
-[{ "C": "Russia", "r": "Komi", "c": "Vorkuta", "n": 1 }]
+[
+  { "C": "Russia", "r": "Komi", "c": "Vorkuta", "n": 1 },
+  { "C": "Russia", "r": "Krasnodar Krai", "c": "Slavyansk-na-Kubani", "n": 1 }
+]
